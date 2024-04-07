@@ -3,7 +3,7 @@
 - 🌱 High School Student on IT Major
 - ❤️‍🔥 Passionate about the entirety of IT
 - 🔭 My main interests are Full-Stack Web Dev, Software Dev and Cyber Security
-- 📫 How to reach me: markwer.dev@gmail.com
+- 📫 How to reach me: markwer.dev@proton.me
 
 ### Still at the stage of developing and learning the following skills:
 
