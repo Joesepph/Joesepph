@@ -7,4 +7,4 @@
 
 ### Still at the stage of developing and learning the following skills:
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,mongodb)](https://skillicons.dev) [![skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,mongodb)](https://skillicons.dev)     [![skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
