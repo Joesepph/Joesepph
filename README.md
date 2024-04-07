@@ -7,4 +7,8 @@
 
 ### Still at the stage of developing and learning the following skills:
 
-[![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,mongodb)](https://skillicons.dev)     [![skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,mongodb,py,git" />
+  </a>
+</p>
