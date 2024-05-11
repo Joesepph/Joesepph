@@ -6,7 +6,7 @@
 - 🐧 Yes, Linux is my preffered OS.
 - 📫 How to reach me: markwer.dev@proton.me
 
-### Still at the stage of developing and learning the following skills:
+### At the stage of developing and learning the following skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
