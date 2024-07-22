@@ -6,10 +6,4 @@
 - 🐧 Yes, Linux is my preffered OS.
 - 📫 How to reach me: markwer.dev@proton.me
 
-### At the stage of developing and learning the following skills:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,mysql,mongodb,py,git"/>
-  </a>
-</p>
+Visit my website for more information: https://joesepp.is-a.dev
