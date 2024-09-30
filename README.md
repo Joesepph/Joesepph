@@ -1,10 +1,7 @@
-## Hi there 👋
+## hi, i'm joesepp.
 
-- 🌱 Aspiring developer
-- 🖋️ Hobbyist writer and worldbuilder
-- ❤️‍🔥 Passionate about the entirety of IT
-- 🔭 My main interests are Full-Stack Web Dev, Software Dev and Cyber Security
-- 🐧 Totally (not) a Linux geek
-- 📫 How to reach me: markwer.dev@proton.me
+I'm an aspiring developer who's interested in many tech fields. 
+Still in the stage of figuring out what to do with my life.
+Expect projects on my GitHub... some time in the future.
 
-Visit my website: https://joesepp.is-a.dev
+visit my website: https://joesepp.is-a.dev
