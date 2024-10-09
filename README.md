@@ -5,3 +5,4 @@ Still in the stage of figuring out what to do with my life. <br>
 Expect projects on my GitHub... some time in the future.
 
 visit my website: https://joesepp.is-a.dev
+![](https://cyber.dabamos.de/88x31/banner2.gif)
